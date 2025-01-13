@@ -9,7 +9,7 @@ A sleek, modern lottery number generator for popular UK games, including **EuroM
 - **Game Selection**: Choose from EuroMillions, Lotto, Thunderball, or HotPicks.
 - **Main & Lucky Numbers**: Separates the main numbers and lucky numbers (where applicable) for better clarity.
 - **Randomized Numbers**: Generates unique random numbers following each game’s rules.
-- **Modern Design**: Clean and responsive UI using Tailwind CSS.
+- **Modern Design**: Clean and responsive UI.
 - **Interactive Buttons**: Easy-to-use buttons for each game.
 
 ---
