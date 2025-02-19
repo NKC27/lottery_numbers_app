@@ -3,6 +3,8 @@
 A sleek, modern lottery number generator for popular UK games, including **EuroMillions**, **Lotto**, **Thunderball**, and **HotPicks**. This application generates random numbers based on the rules of each game and displays them in a clean and user-friendly interface.
 
 ---
+## Live Demo
+https://nkc27.github.io/lottery_numbers_app/
 
 ## Features
 
